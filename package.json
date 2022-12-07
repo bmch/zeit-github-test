@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/bmch/zeit-github-test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
